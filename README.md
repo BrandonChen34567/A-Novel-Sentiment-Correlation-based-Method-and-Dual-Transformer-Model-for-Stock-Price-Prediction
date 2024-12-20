@@ -22,8 +22,9 @@ The proposed methodology outperforms traditional models such as Informer and LST
 
 ## Running the Code
 The sample code is designed to be run in Google Colab. Follow these steps:
-1. Open the provided Colab notebook: Link to Colab Notebook
+1. Open the Colab notebook
 2. Upload your dataset to the Colab environment or link it via Google Drive.
+3. Execute the Cells
 
 ## Requirements
 1. **Python**: 3.10.12
