@@ -26,9 +26,9 @@ The sample code is designed to be run in Google Colab. Follow these steps:
 2. Upload your dataset to the Colab environment or link it via Google Drive.
 
 ## Requirements
--**Python**: 3.10.12
--**Pytorch**: 2.5.1
--**Pandas**: 2.2.2
--**NumPy**: 1.26.4
+1. **Python**: 3.10.12
+2. **Pytorch**: 2.5.1
+3. **Pandas**: 2.2.2
+4. **NumPy**: 1.26.4
 
 
