@@ -34,6 +34,12 @@ The sample code is designed to be run in Google Colab. Follow these steps:
 
 ## Citation
 
-<pre> @article{chen2025novel, title={A Novel Sentiment Correlation-based Method with Dual Transformer Model for Stock Price Prediction}, author={Chen, Qizhao and Kawashima, Hiroaki}, year={2025}, journal={arXiv preprint arXiv:XXXX.XXXXX} } </pre>
+<pre> 
+    @article{chen2025novel, 
+    title={A Novel Sentiment Correlation-based Method with Dual Transformer Model for Stock Price Prediction}, 
+    author={Chen, Qizhao and Kawashima, Hiroaki}, 
+    year={2025}, 
+    journal={arXiv preprint arXiv:XXXX.XXXXX} } 
+</pre>
 
 
