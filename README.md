@@ -1,4 +1,4 @@
-# A Novel Sentiment-Correlation-based Method and Dual Transformer Model for Stock Price Prediction
+# A Novel Sentiment-Correlation-based Method with Dual Transformer Model for Stock Price Prediction
 
 Welcome to the GitHub repository for the research paper "A Novel Sentiment-Correlation-based Method and Dual Transformer Model for Stock Price Prediction." This repository contains sample Python code to demonstrate the methodologies proposed in the paper. The provided code aims to guide researchers and practitioners in implementing and understanding the model components discussed in the paper.
 
